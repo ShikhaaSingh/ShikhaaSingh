@@ -10,11 +10,11 @@
 ### 🚀 About Me
 
 - 🏢 **Software Engineer @ Google** with 1 year of experience building secure & scalable backend applications
-- 💡 Passionate about **Backend Development**, **Full Stack Development** & **Machine Learning Integration**
-- 💻 Proficient in **Java, Spring Boot, SQL, DSA** and basics of **HTML, CSS, JavaScript**
+- 💡 Passionate about **Backend Development**, **Full Stack Development**
+- 💻 Proficient in **Java, Spring Boot, SQL, DSA, Problem Solving** and **HTML, CSS, JavaScript**
 - 🎓 B.Tech in **Computer Science & Engineering** — Graphic Era Deemed University, Dehradun
 - 🔍 Currently seeking opportunities as a **Software Engineer | Full Stack Developer | Java Developer**
-- 🌱 Always learning — currently exploring **Microservices**, **System Design** & **Cloud Technologies**
+- 🌱 Always learning — currently exploring **Microservices**, **BizOps**, **System Design** & **Cloud Technologies**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/shikha-singh-917297228/)** or **[shikhakss121@gmail.com](mailto:shikhakss121@gmail.com)**
 
 ---
