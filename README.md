@@ -26,9 +26,9 @@
 | 🔧 Backend Development | Java, Spring Boot, Hibernate, REST APIs, MVC, SOLID Principles |
 | 🗄️ Database & Cloud | MySQL, MongoDB, Google Cloud (GCP) |
 | 🧪 Testing & Quality | JUnit, Mockito, Postman |
-| 🌐 Frontend Basics | HTML5, CSS3, JavaScript |
+| 🌐 Frontend Developement | HTML5, CSS3, JavaScript |
 | 🤖 AI & ML | ML Integration, GitHub Copilot, Google Gemini, ChatGPT, Claude |
-| ⚙️ DevOps & Tools | Git, GitHub, Jenkins, Maven, Gradle, Splunk |
+| ⚙️ DevOps & Tools | Git, GitHub, Jenkins,CI/CD, Maven, Gradle, Splunk |
 | 🧠 Core CS | DSA, OOPs, System Design, REST API Design |
 
 ---
