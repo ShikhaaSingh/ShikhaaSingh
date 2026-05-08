@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikha Singh</h1>
-<h3 align="center">Software Engineer Apprentice @ Google | Java · Spring Boot · SQL · DSA</h3>
+<h3 align="center">Software Engineer@ Google | Java · Spring Boot · SQL · DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShikhaaSingh&label=Profile%20views&color=0e75b6&style=flat" alt="ShikhaaSingh" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🏢 **Software Engineer Apprentice @ Google** with 1 year of experience
+- 🏢 **Software Engineer @ Google** with 1 year of experience
 - 💡 Passionate about building **secure and scalable backend applications**
 - 💻 Proficient in **Java, Spring Boot, SQL, DSA** and basics of **HTML, CSS, JavaScript**
 - 🎓 B.Tech in **Computer Science & Engineering** — Graphic Era Deemed University, Dehradun
