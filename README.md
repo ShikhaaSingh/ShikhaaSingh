@@ -158,23 +158,22 @@
 
 ---
 
-#### 🎓 SRMS — Student Record Management System
-> Web app where users can enter student details, enroll, and view results.
+#### 🎓 SRMS —AI-Powered Student Result Management System |  Java, Spring Boot, MongoDB, HTML5, CSS3, JavaScript
+• Built a full-stack web application using Java, Spring Boot, and MongoDB to automate grade management for 500+ student records,
+reducing manual data entry effort by 50%.
+• Designed 5+ RESTful backend APIs supporting CRUD operations with response time under 200ms, along with performance analytics
+features for academic decision-making.
+• Integrated ChatGPT to accelerate development workflow, reducing implementation time by 30% while maintaining high code quality
+and clean MVC architecture standards
 
 [View Repository](https://github.com/ShikhaaSingh/SRMS)
 
 ---
 
-#### 📚 Data Structures
-> DSA implementations and practice problems in C++.
-
-[View Repository](https://github.com/ShikhaaSingh/Data-Structures)
-
 ---
 
 ### 🤝 Connect with Me
 
-### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shikha-singh-917297228/" target="_blank">
