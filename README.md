@@ -152,7 +152,12 @@
 ---
 
 #### 🌤️ Weather Application
-> Real-time weather lookup application.
+* Developed a real-time weather application using API integration to fetch and display live weather data for different cities.
+* Designed a responsive and user-friendly interface using HTML, CSS, and JavaScript.
+* Implemented dynamic search functionality and real-time temperature, humidity, and weather condition updates.
+* Integrated third-party weather APIs for accurate and up-to-date weather information.
+* Improved understanding of API handling, asynchronous programming, and frontend development concepts.
+
 
 [View Repository](https://github.com/ShikhaaSingh/Weather-Application-)
 
