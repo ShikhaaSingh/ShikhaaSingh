@@ -145,7 +145,12 @@
 ---
 
 #### 🧮 Calculator Web App
-> Interactive calculator with clean UI built using HTML, CSS & JavaScript.
+* Developed an interactive calculator web application using HTML, CSS, and JavaScript with a clean and responsive user interface.
+* Implemented real-time arithmetic operations including addition, subtraction, multiplication, and division.
+* Designed intuitive button layouts and dynamic display updates for better user experience.
+* Enhanced problem-solving and JavaScript DOM manipulation skills through frontend development.
+* Improved application responsiveness and usability across different screen sizes and devices.
+
 
 [View Repository](https://github.com/ShikhaaSingh/CalculatorWebApp)
 
