@@ -142,6 +142,7 @@
 * Built a responsive and user-friendly interface using HTML, CSS, and JavaScript.
 * Integrated Firebase for authentication and real-time data storage.
 * Implemented features like accommodation listing, search functionality, and user registration/login.
+* Improved understanding of frontend development, database integration, and user experience design.
 
 
 
