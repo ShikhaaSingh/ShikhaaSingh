@@ -138,7 +138,12 @@
 ---
 
 #### 🏠 Smart Students Sojourn
-> Helps students find PG (Paying Guest) accommodations, making relocation easier.
+* Developed a student accommodation platform to help users find suitable PG (Paying Guest) stays easily during relocation.
+* Built a responsive and user-friendly interface using HTML, CSS, and JavaScript.
+* Integrated Firebase for authentication and real-time data storage.
+* Implemented features like accommodation listing, search functionality, and user registration/login.
+
+
 
 [View Repository](https://github.com/ShikhaaSingh/Smart-Students-Sojourn-)
 
